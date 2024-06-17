@@ -1,0 +1,53 @@
+                                        List of Manhattan Buildings Containing Stabilized Units
+ZIP  BLDGNO1   STREET1    STSUFX1 BLDGNO2 STREET2 STSUFX2 CITY COUNTY STATUS1 STATUS2 STATUS3  BLOCK LOT
+10001 246      10TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         722  3
+10001 299      10TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         699  31
+10001 301      10TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         699  32
+10001 303 TO 309 10TH     AVE                        NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 699 33
+10001 440      10TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         732  73
+10001 442      10TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         732  72
+10001 312      11TH       AVE                        NEW YORK 62   MULTIPLE DWELLING A         701  62
+10001 320      11TH       AVE  545 TO 577 W 30TH ST  NEW YORK 62   MULTIPLE DWELLING A         702  7502
+10001 800 TO 802 6TH      AVE                        NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 829 1
+10001 819      6TH        AVE  819    AVENUE OF THE AMERICAS NEW YORK 62 MULTIPLE DWELLING B   804  36
+10001 835 TO 851 6TH      AVE                        NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 805 7502
+10001 855      6TH        AVE  100    W 31ST     ST  NEW YORK 62   MULTIPLE DWELLING A 421-A (16) 806 7502
+10001 883 TO 885 6TH      AVE                        NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 807 7502
+10001 315      7TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         803  7501
+10001 328      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         776  4
+10001 330      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         776  4
+10001 370      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING B HOTEL ROOMING HOUSE 778 75
+10001 402      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         780  1
+10001 404      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         780  2
+10001 481      8TH        AVE                        NEW YORK 62   MULTIPLE DWELLING B HOTEL   758  37
+10001 235      9TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         722  40
+10001 237      9TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         722  41
+10001 239      9TH        AVE                        NEW YORK 62   MULTIPLE DWELLING A         722  42
+10001 1186     BROADWAY                              NEW YORK 62   MULTIPLE DWELLING A         830  54
+10001 1234     BROADWAY        38     W 31ST     ST  NEW YORK 62   MULTIPLE DWELLING B HOTEL ROOMING HOUSE 832 66
+10001 226      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         774  55
+10001 228      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         774  56
+10001 231      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         775  17
+10001 245      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A GARDEN COMPLEX 775 9
+10001 270      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         774  76
+10001 401      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 723 7502
+10001 412      W 25TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         722  48
+10001 135      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING B         802  19
+10001 200      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A 421-A (16) 775 44
+10001 220      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A 421-A (16) 775 46
+10001 239      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         776  15
+10001 247      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         776  11
+10001 249      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         776  10
+10001 251      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         776  9
+10001 260      W 26TH     ST                         NEW YORK 62   MULTIPLE DWELLING A 421-A (1-15) 775 7502
+10001 12       W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         828  56
+10001 26       W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         828  63
+10001 29       W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         829  20
+10001 39       W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING B HOTEL   829  14
+10001 100      W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         802  45
+10001 144      W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A NON-EVICT COOP/CONDO 802 7501
+10001 154      W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         802  71
+10001 260      W 27TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         776  69
+10001 537 TO 545 W 27TH   ST                         NEW YORK 62   MULTIPLE DWELLING A         699  9
+10001 139      W 28TH     ST                         NEW YORK 62   MULTIPLE DWELLING A         804  15
+Source: 2022 HCR Building Registration File https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists Page 1 of 265
