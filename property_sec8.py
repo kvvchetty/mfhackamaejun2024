@@ -12,9 +12,6 @@ df2 = pd.read_excel(file2)
 # Perform the merge based on the common column
 merged_df = df1.merge(df2, on=common_column, how="outer")
 
-# Optionally, specify columns to keep from each DataFrame
-# merged_df = df1.merge(df2[['ID', 'Data_from_file2']], on=common_column, how="outer")
-
 # Save the merged DataFrame to a new excel file (optional)
 merged_df.to_excel("merged_data.xlsx", index=False)
 
