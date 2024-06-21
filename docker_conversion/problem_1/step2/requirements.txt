@@ -1,0 +1,15 @@
+pandas
+openpyxl
+spacy
+pdfplumber
+pdfminer.six
+pytesseract
+pypdf2
+bs4
+requests
+beautifulsoup4
+lxml
+python-docx
+python-pptx
+pdf2image
+# textract
