@@ -1,0 +1,160 @@
+# 1. Overview Tab
+
+**Screen Title:** Section 8 Housing Risk Analysis Overview
+
+**Map Visualization:**
+
+- Interactive map with heatmap representing voucher holder concentration or participating properties.
+- Zoom, pan, and filter by region or state.
+- Tooltips displaying details (active vouchers, participating households).
+
+**Key Metrics:**
+
+- Total active vouchers
+- Number of participating households
+- Average voucher value
+- Percentage of vouchers utilized
+
+**Risk Distribution Chart:**
+
+- Pie or bar chart showing risk ratings (low, medium, high) for properties/landlords.
+- Legend differentiating risk categories.
+
+**Navigation:**
+
+- Tabs or sidebar menu for navigating between tabs.
+
+# 2. Property Risk Tab
+
+**Screen Title:** Property Risk Analysis
+
+**Property Risk Matrix:**
+
+- Scatter plot matrix or similar visualization to plot properties based on vacancy rates and % tenants with Section 8 vouchers.
+- Hover over data points for property details.
+- Color-coding or sizing to indicate risk levels.
+
+**Property Risk Details:**
+
+- Table with columns:
+  - Property Address
+  - Owner/Landlord
+  - Vacancy Rate
+  - Average Tenant Tenure
+  - Risk Score
+- Sort, filter, and search capabilities.
+- Detail view with additional property information.
+
+**Risk Factors Breakdown:**
+
+- Bar chart or grouped horizontal bar chart for top risk factors contributing to risk score.
+- Factors like historical vacancy rates, tenant turnover, late rent payments, etc.
+- Legend explaining risk factors.
+
+**Navigation:**
+
+- Consistent tabs or sidebar menu for navigation.
+
+# 3. Financial Risk Tab
+
+**Screen Title:** Financial Risk Analysis
+
+**Budget Allocation Chart:**
+
+- Pie or stacked bar chart illustrating budget allocation across categories (rental assistance, administrative costs, support services).
+- Legend differentiating budget categories.
+
+**Payment Delays Visualization:**
+
+- Timeline chart displaying voucher payment delays over time.
+- Highlight trends, spikes, seasonal variations.
+- Hover for detailed payment delay information.
+
+**Financial Risk Indicators:**
+
+- Gauges, bar charts, or bullet charts for key financial metrics and ratios:
+  - Average voucher payment as % of fair market rent.
+  - Ratio of voucher payments to property maintenance costs.
+  - Average time lag between voucher issuance and payment.
+
+**Navigation:**
+
+- Maintain consistent tabs or sidebar menu navigation.
+
+# 4. Tenant Risk Tab
+
+**Screen Title:** Tenant Risk Profile
+
+**Tenant Risk Profile:**
+
+- Table for each tenant/household:
+  - Name
+  - Income Level
+  - Voucher Value
+  - Tenancy History
+  - Risk Rating
+- Sort, filter, and search capabilities.
+- Detail view for each tenant with additional information and tenancy history.
+
+**Risk Distribution by Tenant Demographics:**
+
+- Grouped bar or stacked column chart showing risk rating distribution across demographics (age groups, family size, income level).
+- Legend differentiating tenant demographics.
+
+**Tenant Turnover Analysis:**
+
+- Line chart showing tenant turnover rates over time.
+- Identify unusual patterns or spikes.
+- Allow selecting specific time ranges for analysis.
+
+**Navigation:**
+
+- Consistent tabs or sidebar menu for navigation.
+
+# 5. Market Risk Tab
+
+**Screen Title:** Market Risk Assessment
+
+**Rental Market Analysis:**
+
+- Charts comparing availability of rental units accepting vouchers vs. overall rental market (bar charts, stacked area charts).
+- Data on total available units, units accepting vouchers, and supply-demand gap.
+
+**Market Trends:**
+
+- Line charts visualizing:
+  - Rental price changes over time.
+  - Vacancy rates for voucher and non-voucher units.
+  - Availability of affordable units in target areas.
+
+**Competitive Landscape:**
+
+- Table or grid view displaying information on other housing assistance programs/market participants:
+  - Names
+  - Market share
+  - Unique offerings
+
+**Navigation:**
+
+- Consistent navigation structure.
+
+# 6. Alerts and Anomaly Detection Tab
+
+**Screen Title:** Alerts and Anomalies
+
+**Risk Alerts:**
+
+- Table or list view for alerts generated (properties, landlords, tenants).
+- Columns: Alert Type, Entity ID(s), Description, Date/Time, Status.
+- Filter, search capabilities, and view alert details.
+
+**Anomaly Detection Charts:**
+
+- Charts/graphs visualizing detected anomalies:
+  - Voucher utilization rates over time.
+  - Payment patterns (average days between payments).
+  - Tenant turnover rates (highlighting unusual deviations).
+
+**Navigation:**
+
+- Consistent navigation experience.
